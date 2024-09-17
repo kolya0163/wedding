@@ -15,9 +15,9 @@
   <li><p>Проект сделан по принципам объектно-ориентированного программирования</p></li>
 </ul>
 <h2>Над проектом работал:</h2>
-<h3><a href="https://github.com/ilkor4" target="_blank">Николай</a></h3>
+<h3><a target="_blank">Николай</a></h3>
 
 
 ---
 
-<p><a href="https://07-05.ru" target="_blank">Ссылка на сайт</a></p>
+<p><a href="kolya0163.github.io/wedding/" target="_blank">Ссылка на сайт</a></p>
