@@ -1,4 +1,4 @@
-<h1 align="center">07-05. Илья & Янина</h1>
+<h1 align="center">28-09. Николай & Оксана</h1>
 <div align="center">
   <img src="./images/lead.jpeg" alt="Место">
 </div>
@@ -15,7 +15,7 @@
   <li><p>Проект сделан по принципам объектно-ориентированного программирования</p></li>
 </ul>
 <h2>Над проектом работал:</h2>
-<h3><a href="https://github.com/ilkor4" target="_blank">Корнелюк Илья</a></h3>
+<h3><a href="https://github.com/ilkor4" target="_blank">Николай</a></h3>
 
 
 ---
